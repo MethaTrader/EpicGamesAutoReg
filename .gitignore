@@ -1,0 +1,38 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+*.venv
+env/
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Visual Studio Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+emails.txt
+chromedriver.exe
+chromedriver
